@@ -1,0 +1,17 @@
+#!/bin/bash
+#Script for generates 10 Random numbers
+#purpose: Practice_test
+RANDOM=$$
+for i in 'seq 10000'
+do
+    echo 0,$RANDOM 
+    echo 1,$RANDOM 
+    echo 2,$RANDOM 
+    echo 3,$RANDOM 
+    echo 4,$RANDOM 
+    echo 5,$RANDOM 
+    echo 6,$RANDOM 
+    echo 7,$RANDOM 
+    echo 8,$RANDOM 
+    echo 9,$RANDOM
+done 
